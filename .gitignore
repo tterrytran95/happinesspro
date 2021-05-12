@@ -1,3 +1,7 @@
 *.csv
 *.DS_Store
 *.ipynb_checkpoints
+*.mov
+dataframes/
+world_happiness/
+figs/
